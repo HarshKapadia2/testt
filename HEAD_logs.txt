@@ -1,0 +1,105 @@
+0000000000000000000000000000000000000000 20bfae88b6240bb95eb9431dae6777ac1f7eb0d9 Harsh Kapadia <harshgkapadia@gmail.com> 1596213557 +0530	commit (initial): Initial commit
+20bfae88b6240bb95eb9431dae6777ac1f7eb0d9 20bfae88b6240bb95eb9431dae6777ac1f7eb0d9 Harsh Kapadia <harshgkapadia@gmail.com> 1596224681 +0530	checkout: moving from master to b1
+20bfae88b6240bb95eb9431dae6777ac1f7eb0d9 c9dbe824f5e89333fd843e378414e4c0b5b4fb02 Harsh Kapadia <harshgkapadia@gmail.com> 1596224800 +0530	commit: Add b1_1.txt
+c9dbe824f5e89333fd843e378414e4c0b5b4fb02 20bfae88b6240bb95eb9431dae6777ac1f7eb0d9 Harsh Kapadia <harshgkapadia@gmail.com> 1596224984 +0530	checkout: moving from b1 to master
+20bfae88b6240bb95eb9431dae6777ac1f7eb0d9 c9dbe824f5e89333fd843e378414e4c0b5b4fb02 Harsh Kapadia <harshgkapadia@gmail.com> 1596224989 +0530	rebase (start): checkout b1
+c9dbe824f5e89333fd843e378414e4c0b5b4fb02 c9dbe824f5e89333fd843e378414e4c0b5b4fb02 Harsh Kapadia <harshgkapadia@gmail.com> 1596224989 +0530	rebase (finish): returning to refs/heads/master
+c9dbe824f5e89333fd843e378414e4c0b5b4fb02 cec6ee5ee1e6c2efb25f6f99dadd70ff16ccf786 Harsh Kapadia <harshgkapadia@gmail.com> 1596225059 +0530	commit: Modify master_1.txt
+cec6ee5ee1e6c2efb25f6f99dadd70ff16ccf786 cec6ee5ee1e6c2efb25f6f99dadd70ff16ccf786 Harsh Kapadia <harshgkapadia@gmail.com> 1596225196 +0530	checkout: moving from master to master
+cec6ee5ee1e6c2efb25f6f99dadd70ff16ccf786 c9dbe824f5e89333fd843e378414e4c0b5b4fb02 Harsh Kapadia <harshgkapadia@gmail.com> 1596225201 +0530	checkout: moving from master to b1
+c9dbe824f5e89333fd843e378414e4c0b5b4fb02 ac269b89ae5a93e7d0f347e67d44644305ef182f Harsh Kapadia <harshgkapadia@gmail.com> 1596225238 +0530	commit: Modify b1_1.txt
+ac269b89ae5a93e7d0f347e67d44644305ef182f cec6ee5ee1e6c2efb25f6f99dadd70ff16ccf786 Harsh Kapadia <harshgkapadia@gmail.com> 1596225373 +0530	checkout: moving from b1 to master
+cec6ee5ee1e6c2efb25f6f99dadd70ff16ccf786 ac269b89ae5a93e7d0f347e67d44644305ef182f Harsh Kapadia <harshgkapadia@gmail.com> 1596225381 +0530	rebase (start): checkout b1
+ac269b89ae5a93e7d0f347e67d44644305ef182f 20526aced49a1aa88d0bd2b6fae117e3fa05863a Harsh Kapadia <harshgkapadia@gmail.com> 1596225382 +0530	rebase (pick): Modify master_1.txt
+20526aced49a1aa88d0bd2b6fae117e3fa05863a 20526aced49a1aa88d0bd2b6fae117e3fa05863a Harsh Kapadia <harshgkapadia@gmail.com> 1596225382 +0530	rebase (finish): returning to refs/heads/master
+20526aced49a1aa88d0bd2b6fae117e3fa05863a ac269b89ae5a93e7d0f347e67d44644305ef182f Harsh Kapadia <harshgkapadia@gmail.com> 1596225955 +0530	checkout: moving from master to b1
+ac269b89ae5a93e7d0f347e67d44644305ef182f 20526aced49a1aa88d0bd2b6fae117e3fa05863a Harsh Kapadia <harshgkapadia@gmail.com> 1596226002 +0530	rebase (start): checkout master
+20526aced49a1aa88d0bd2b6fae117e3fa05863a 20526aced49a1aa88d0bd2b6fae117e3fa05863a Harsh Kapadia <harshgkapadia@gmail.com> 1596226002 +0530	rebase (finish): returning to refs/heads/b1
+20526aced49a1aa88d0bd2b6fae117e3fa05863a 20526aced49a1aa88d0bd2b6fae117e3fa05863a Harsh Kapadia <harshgkapadia@gmail.com> 1605824148 +0530	reset: moving to HEAD
+20526aced49a1aa88d0bd2b6fae117e3fa05863a 20526aced49a1aa88d0bd2b6fae117e3fa05863a Harsh Kapadia <harshgkapadia@gmail.com> 1605824631 +0530	reset: moving to HEAD
+20526aced49a1aa88d0bd2b6fae117e3fa05863a 20526aced49a1aa88d0bd2b6fae117e3fa05863a Harsh Kapadia <harshgkapadia@gmail.com> 1605824741 +0530	reset: moving to HEAD
+20526aced49a1aa88d0bd2b6fae117e3fa05863a 20526aced49a1aa88d0bd2b6fae117e3fa05863a Harsh Kapadia <harshgkapadia@gmail.com> 1616491675 +0530	checkout: moving from b1 to master
+20526aced49a1aa88d0bd2b6fae117e3fa05863a 0000000000000000000000000000000000000000 Harsh Kapadia <harshgkapadia@gmail.com> 1616491703 +0530	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 20526aced49a1aa88d0bd2b6fae117e3fa05863a Harsh Kapadia <harshgkapadia@gmail.com> 1616491703 +0530	Branch: renamed refs/heads/master to refs/heads/main
+20526aced49a1aa88d0bd2b6fae117e3fa05863a 16d75e66dabc956a92b2f41736f35abdb1c82781 Harsh Kapadia <harshgkapadia@gmail.com> 1616491788 +0530	commit: Add master_2.txt
+16d75e66dabc956a92b2f41736f35abdb1c82781 20526aced49a1aa88d0bd2b6fae117e3fa05863a Harsh Kapadia <harshgkapadia@gmail.com> 1616492014 +0530	reset: moving to HEAD@{1}
+20526aced49a1aa88d0bd2b6fae117e3fa05863a e633a34e2aeb7afd9aefaf072d857072228915e7 Harsh Kapadia <harshgkapadia@gmail.com> 1617993724 +0530	commit: Git LFS test - add img
+e633a34e2aeb7afd9aefaf072d857072228915e7 1f04a0ef268d9348175e68a7411df251e4a60495 Harsh Kapadia <harshgkapadia@gmail.com> 1617993757 +0530	pull: Merge made by the 'recursive' strategy.
+1f04a0ef268d9348175e68a7411df251e4a60495 ae98b616b4b0e16c1bf20266dfcf98fe0fb88247 Harsh Kapadia <harshgkapadia@gmail.com> 1621085449 +0530	commit: Unstage testing
+ae98b616b4b0e16c1bf20266dfcf98fe0fb88247 ae98b616b4b0e16c1bf20266dfcf98fe0fb88247 Harsh Kapadia <harshgkapadia@gmail.com> 1621147674 +0530	reset: moving to HEAD
+ae98b616b4b0e16c1bf20266dfcf98fe0fb88247 10f3ceae2e36c20e6f41b3f6bb305f600af97338 Harsh Kapadia <harshgkapadia@gmail.com> 1621580555 +0530	commit: Ustaging test stuff
+10f3ceae2e36c20e6f41b3f6bb305f600af97338 83716b79ddf81a38c2ec1da9f118076e6339d8f7 Harsh Kapadia <harshgkapadia@gmail.com> 1621580716 +0530	commit: Add `anushka.txt`
+83716b79ddf81a38c2ec1da9f118076e6339d8f7 83716b79ddf81a38c2ec1da9f118076e6339d8f7 Harsh Kapadia <harshgkapadia@gmail.com> 1621581279 +0530	reset: moving to HEAD
+83716b79ddf81a38c2ec1da9f118076e6339d8f7 20526aced49a1aa88d0bd2b6fae117e3fa05863a Harsh Kapadia <harshgkapadia@gmail.com> 1621581349 +0530	checkout: moving from main to b1
+20526aced49a1aa88d0bd2b6fae117e3fa05863a 83716b79ddf81a38c2ec1da9f118076e6339d8f7 Harsh Kapadia <harshgkapadia@gmail.com> 1621581387 +0530	checkout: moving from b1 to main
+83716b79ddf81a38c2ec1da9f118076e6339d8f7 83716b79ddf81a38c2ec1da9f118076e6339d8f7 Harsh Kapadia <harshgkapadia@gmail.com> 1621581582 +0530	reset: moving to HEAD
+83716b79ddf81a38c2ec1da9f118076e6339d8f7 20526aced49a1aa88d0bd2b6fae117e3fa05863a Harsh Kapadia <harshgkapadia@gmail.com> 1621581597 +0530	checkout: moving from main to b1
+20526aced49a1aa88d0bd2b6fae117e3fa05863a 83716b79ddf81a38c2ec1da9f118076e6339d8f7 Harsh Kapadia <harshgkapadia@gmail.com> 1621581616 +0530	checkout: moving from b1 to main
+83716b79ddf81a38c2ec1da9f118076e6339d8f7 83716b79ddf81a38c2ec1da9f118076e6339d8f7 Harsh Kapadia <harshgkapadia@gmail.com> 1621763817 +0530	reset: moving to HEAD
+83716b79ddf81a38c2ec1da9f118076e6339d8f7 20526aced49a1aa88d0bd2b6fae117e3fa05863a Harsh Kapadia <harshgkapadia@gmail.com> 1621763823 +0530	checkout: moving from main to b1
+20526aced49a1aa88d0bd2b6fae117e3fa05863a acfc75cdd758a536349afeb8b75406ea7c9d803f Harsh Kapadia <harshgkapadia@gmail.com> 1621764050 +0530	pull: Fast-forward
+acfc75cdd758a536349afeb8b75406ea7c9d803f 83716b79ddf81a38c2ec1da9f118076e6339d8f7 Harsh Kapadia <harshgkapadia@gmail.com> 1621764106 +0530	checkout: moving from b1 to main
+83716b79ddf81a38c2ec1da9f118076e6339d8f7 83716b79ddf81a38c2ec1da9f118076e6339d8f7 Harsh Kapadia <harshgkapadia@gmail.com> 1621776680 +0530	checkout: moving from main to b2
+83716b79ddf81a38c2ec1da9f118076e6339d8f7 bb26e73b13b9c565322263377b21f7ca8df758c2 Harsh Kapadia <harshgkapadia@gmail.com> 1621776743 +0530	commit: Add `b2_1.txt`
+bb26e73b13b9c565322263377b21f7ca8df758c2 83716b79ddf81a38c2ec1da9f118076e6339d8f7 Harsh Kapadia <harshgkapadia@gmail.com> 1621777333 +0530	checkout: moving from b2 to main
+83716b79ddf81a38c2ec1da9f118076e6339d8f7 83716b79ddf81a38c2ec1da9f118076e6339d8f7 Harsh Kapadia <harshgkapadia@gmail.com> 1621777351 +0530	checkout: moving from main to b3
+83716b79ddf81a38c2ec1da9f118076e6339d8f7 fea55704bdbc1d513e11dfe895c98492a10cb148 Harsh Kapadia <harshgkapadia@gmail.com> 1621777373 +0530	commit: Add `b3_1.txt`
+fea55704bdbc1d513e11dfe895c98492a10cb148 fea55704bdbc1d513e11dfe895c98492a10cb148 Harsh Kapadia <harshgkapadia@gmail.com> 1621777633 +0530	checkout: moving from b3 to b4
+fea55704bdbc1d513e11dfe895c98492a10cb148 7ee3fa86694f9e803c226821ed325369150558ea Harsh Kapadia <harshgkapadia@gmail.com> 1621777649 +0530	commit: Add `b4_1.txt`
+7ee3fa86694f9e803c226821ed325369150558ea ae98b616b4b0e16c1bf20266dfcf98fe0fb88247 Harsh Kapadia <harshgkapadia@gmail.com> 1627629714 +0530	rebase (start): checkout ae98b61
+ae98b616b4b0e16c1bf20266dfcf98fe0fb88247 7ee3fa86694f9e803c226821ed325369150558ea Harsh Kapadia <harshgkapadia@gmail.com> 1627629756 +0530	rebase (abort): updating HEAD
+7ee3fa86694f9e803c226821ed325369150558ea ae98b616b4b0e16c1bf20266dfcf98fe0fb88247 Harsh Kapadia <harshgkapadia@gmail.com> 1627629789 +0530	rebase (start): checkout 1f04a0e
+ae98b616b4b0e16c1bf20266dfcf98fe0fb88247 cde108409310c52a673a4435e02b465988c4f25d Harsh Kapadia <harshgkapadia@gmail.com> 1627629790 +0530	rebase (squash): Unstage testing
+cde108409310c52a673a4435e02b465988c4f25d eb7c8aa28d604df313623f077067eec6d37ac3af Harsh Kapadia <harshgkapadia@gmail.com> 1627629861 +0530	rebase (pick): Add `anushka.txt`
+eb7c8aa28d604df313623f077067eec6d37ac3af efe39ddda823d5552a3edb92494ae36dee00b145 Harsh Kapadia <harshgkapadia@gmail.com> 1627629862 +0530	rebase (pick): Add `b3_1.txt`
+efe39ddda823d5552a3edb92494ae36dee00b145 d44bf8956feda693c315b349bc88ed6be2e0c8e3 Harsh Kapadia <harshgkapadia@gmail.com> 1627629863 +0530	rebase (pick): Add `b4_1.txt`
+d44bf8956feda693c315b349bc88ed6be2e0c8e3 d44bf8956feda693c315b349bc88ed6be2e0c8e3 Harsh Kapadia <harshgkapadia@gmail.com> 1627629863 +0530	rebase (finish): returning to refs/heads/b4
+d44bf8956feda693c315b349bc88ed6be2e0c8e3 b223f9097ce67a548b5bc12f5b96ec521efe220b Harsh Kapadia <harshgkapadia@gmail.com> 1627630086 +0530	rebase (start): checkout b223f
+b223f9097ce67a548b5bc12f5b96ec521efe220b ce25e24274fb2a30a4a0adab97217997a58ce445 Harsh Kapadia <harshgkapadia@gmail.com> 1627630088 +0530	rebase (pick): Git LFS test - add img
+ce25e24274fb2a30a4a0adab97217997a58ce445 edd927905c8cb154fc3ab10b250b0f41b84f8081 Harsh Kapadia <harshgkapadia@gmail.com> 1627630090 +0530	rebase (pick): Unstage testing
+edd927905c8cb154fc3ab10b250b0f41b84f8081 36de19f6981fb283b80d5963d061e1f30f8af397 Harsh Kapadia <harshgkapadia@gmail.com> 1627630091 +0530	rebase (pick): Add `anushka.txt`
+36de19f6981fb283b80d5963d061e1f30f8af397 b85177dbd30a0c014fef7f08c869490a7f015187 Harsh Kapadia <harshgkapadia@gmail.com> 1627630092 +0530	rebase (pick): Add `b3_1.txt`
+b85177dbd30a0c014fef7f08c869490a7f015187 dbf0a7886698f51b2b14eaf165db883c682b23d6 Harsh Kapadia <harshgkapadia@gmail.com> 1627630093 +0530	rebase (pick): Add `b4_1.txt`
+dbf0a7886698f51b2b14eaf165db883c682b23d6 dbf0a7886698f51b2b14eaf165db883c682b23d6 Harsh Kapadia <harshgkapadia@gmail.com> 1627630093 +0530	rebase (finish): returning to refs/heads/b4
+dbf0a7886698f51b2b14eaf165db883c682b23d6 7ee3fa86694f9e803c226821ed325369150558ea Harsh Kapadia <harshgkapadia@gmail.com> 1627630152 +0530	reset: moving to HEAD@{13}
+7ee3fa86694f9e803c226821ed325369150558ea e633a34e2aeb7afd9aefaf072d857072228915e7 Harsh Kapadia <harshgkapadia@gmail.com> 1627630220 +0530	rebase (start): checkout 20526ac
+e633a34e2aeb7afd9aefaf072d857072228915e7 39b76f79a62b7b0f99b85b2f8326251b655cb1a1 Harsh Kapadia <harshgkapadia@gmail.com> 1627630221 +0530	rebase (pick): Add `test.json`
+39b76f79a62b7b0f99b85b2f8326251b655cb1a1 41cd70714c661a117d24b7bd6365fe1ceb51c563 Harsh Kapadia <harshgkapadia@gmail.com> 1627630222 +0530	rebase (pick): Unstage testing
+41cd70714c661a117d24b7bd6365fe1ceb51c563 7ee3fa86694f9e803c226821ed325369150558ea Harsh Kapadia <harshgkapadia@gmail.com> 1627630250 +0530	rebase (abort): updating HEAD
+7ee3fa86694f9e803c226821ed325369150558ea e633a34e2aeb7afd9aefaf072d857072228915e7 Harsh Kapadia <harshgkapadia@gmail.com> 1627630399 +0530	rebase (start): checkout 20526ac
+e633a34e2aeb7afd9aefaf072d857072228915e7 24fa6b1736e9a87a1bce4ab82ebce10bd873e95f Harsh Kapadia <harshgkapadia@gmail.com> 1627630400 +0530	rebase (pick): Add `test.json`
+24fa6b1736e9a87a1bce4ab82ebce10bd873e95f 6e0360bc06b62624d058f828c821af68d1d6712f Harsh Kapadia <harshgkapadia@gmail.com> 1627630401 +0530	rebase (pick): Unstage testing
+6e0360bc06b62624d058f828c821af68d1d6712f e7ce8ccdc0b966ad236d10a806684ee59d7d42e8 Harsh Kapadia <harshgkapadia@gmail.com> 1627630402 +0530	rebase (squash): Unstage testing
+e7ce8ccdc0b966ad236d10a806684ee59d7d42e8 eb50a2bbc328e40a028c192eb3eea20140d52c9a Harsh Kapadia <harshgkapadia@gmail.com> 1627630449 +0530	rebase (pick): Add `anushka.txt`
+eb50a2bbc328e40a028c192eb3eea20140d52c9a c173cc0e9be5a4b1c9b5980c84b8f711d31aa17b Harsh Kapadia <harshgkapadia@gmail.com> 1627630450 +0530	rebase (pick): Add `b3_1.txt`
+c173cc0e9be5a4b1c9b5980c84b8f711d31aa17b 08093a3e933e2b3ec52335377c970c295804808a Harsh Kapadia <harshgkapadia@gmail.com> 1627630451 +0530	rebase (pick): Add `b4_1.txt`
+08093a3e933e2b3ec52335377c970c295804808a 08093a3e933e2b3ec52335377c970c295804808a Harsh Kapadia <harshgkapadia@gmail.com> 1627630451 +0530	rebase (finish): returning to refs/heads/b4
+08093a3e933e2b3ec52335377c970c295804808a 24fa6b1736e9a87a1bce4ab82ebce10bd873e95f Harsh Kapadia <harshgkapadia@gmail.com> 1627630535 +0530	rebase (start): checkout e633a34
+24fa6b1736e9a87a1bce4ab82ebce10bd873e95f 44b69088095ec9c870e3cac6b4f145cf6908a25e Harsh Kapadia <harshgkapadia@gmail.com> 1627630536 +0530	rebase (fixup): Add `test.json`
+44b69088095ec9c870e3cac6b4f145cf6908a25e d7f44de5accdf1ea58ed041a6fd32776b3fc63a8 Harsh Kapadia <harshgkapadia@gmail.com> 1627630537 +0530	rebase (pick): Add `anushka.txt`
+d7f44de5accdf1ea58ed041a6fd32776b3fc63a8 3865a1f39649159b254fed6e634779dc2a762b46 Harsh Kapadia <harshgkapadia@gmail.com> 1627630538 +0530	rebase (pick): Add `b3_1.txt`
+3865a1f39649159b254fed6e634779dc2a762b46 5817078ae4eee23a598857b0b850ef46a5a00cf9 Harsh Kapadia <harshgkapadia@gmail.com> 1627630539 +0530	rebase (pick): Add `b4_1.txt`
+5817078ae4eee23a598857b0b850ef46a5a00cf9 5817078ae4eee23a598857b0b850ef46a5a00cf9 Harsh Kapadia <harshgkapadia@gmail.com> 1627630539 +0530	rebase (finish): returning to refs/heads/b4
+5817078ae4eee23a598857b0b850ef46a5a00cf9 83716b79ddf81a38c2ec1da9f118076e6339d8f7 Harsh Kapadia <harshgkapadia@gmail.com> 1632310980 +0530	checkout: moving from b4 to main
+83716b79ddf81a38c2ec1da9f118076e6339d8f7 5817078ae4eee23a598857b0b850ef46a5a00cf9 Harsh Kapadia <harshgkapadia@gmail.com> 1632311030 +0530	checkout: moving from main to b4
+5817078ae4eee23a598857b0b850ef46a5a00cf9 fea55704bdbc1d513e11dfe895c98492a10cb148 Harsh Kapadia <harshgkapadia@gmail.com> 1632311048 +0530	checkout: moving from b4 to b3
+fea55704bdbc1d513e11dfe895c98492a10cb148 bb26e73b13b9c565322263377b21f7ca8df758c2 Harsh Kapadia <harshgkapadia@gmail.com> 1632311056 +0530	checkout: moving from b3 to b2
+bb26e73b13b9c565322263377b21f7ca8df758c2 acfc75cdd758a536349afeb8b75406ea7c9d803f Harsh Kapadia <harshgkapadia@gmail.com> 1632311071 +0530	checkout: moving from b2 to b1
+acfc75cdd758a536349afeb8b75406ea7c9d803f 83716b79ddf81a38c2ec1da9f118076e6339d8f7 Harsh Kapadia <harshgkapadia@gmail.com> 1632311548 +0530	checkout: moving from b1 to main
+83716b79ddf81a38c2ec1da9f118076e6339d8f7 5cb25142740a0e13b3e06a30607029ead5e6054f Harsh Kapadia <harshgkapadia@gmail.com> 1632311576 +0530	commit: Add `temp.txt`
+5cb25142740a0e13b3e06a30607029ead5e6054f 670a7954eab5972f8f184ed931231e34334aaf57 Harsh Kapadia <harshgkapadia@gmail.com> 1632311965 +0530	commit: Modify `temp.txt`
+670a7954eab5972f8f184ed931231e34334aaf57 acfc75cdd758a536349afeb8b75406ea7c9d803f Harsh Kapadia <harshgkapadia@gmail.com> 1632312004 +0530	checkout: moving from main to b1
+acfc75cdd758a536349afeb8b75406ea7c9d803f 670a7954eab5972f8f184ed931231e34334aaf57 Harsh Kapadia <harshgkapadia@gmail.com> 1632313372 +0530	checkout: moving from b1 to main
+670a7954eab5972f8f184ed931231e34334aaf57 bb26e73b13b9c565322263377b21f7ca8df758c2 Harsh Kapadia <harshgkapadia@gmail.com> 1632316792 +0530	checkout: moving from main to b2
+bb26e73b13b9c565322263377b21f7ca8df758c2 670a7954eab5972f8f184ed931231e34334aaf57 Harsh Kapadia <harshgkapadia@gmail.com> 1632317282 +0530	checkout: moving from b2 to main
+670a7954eab5972f8f184ed931231e34334aaf57 670a7954eab5972f8f184ed931231e34334aaf57 Harsh Kapadia <harshgkapadia@gmail.com> 1632343037 +0530	checkout: moving from main to b5
+670a7954eab5972f8f184ed931231e34334aaf57 670a7954eab5972f8f184ed931231e34334aaf57 Harsh Kapadia <harshgkapadia@gmail.com> 1632343091 +0530	reset: moving to HEAD
+670a7954eab5972f8f184ed931231e34334aaf57 64c683187482c4aa9b53770f4ccf904f049a5693 Harsh Kapadia <harshgkapadia@gmail.com> 1632343156 +0530	commit: Add `b5_file_1.txt`
+64c683187482c4aa9b53770f4ccf904f049a5693 670a7954eab5972f8f184ed931231e34334aaf57 Harsh Kapadia <harshgkapadia@gmail.com> 1632344373 +0530	checkout: moving from b5 to main
+670a7954eab5972f8f184ed931231e34334aaf57 670a7954eab5972f8f184ed931231e34334aaf57 Harsh Kapadia <harshgkapadia@gmail.com> 1632346741 +0530	reset: moving to HEAD
+670a7954eab5972f8f184ed931231e34334aaf57 6857f4b82314c20e393867c75df0d17895c61dca Harsh Kapadia <harshgkapadia@gmail.com> 1632347150 +0530	commit: Add internal_working_of_git.adoc
+6857f4b82314c20e393867c75df0d17895c61dca 6857f4b82314c20e393867c75df0d17895c61dca Harsh Kapadia <harshgkapadia@gmail.com> 1632399903 +0530	reset: moving to HEAD
+6857f4b82314c20e393867c75df0d17895c61dca acfc75cdd758a536349afeb8b75406ea7c9d803f Harsh Kapadia <harshgkapadia@gmail.com> 1632399906 +0530	checkout: moving from main to b1
+acfc75cdd758a536349afeb8b75406ea7c9d803f bb26e73b13b9c565322263377b21f7ca8df758c2 Harsh Kapadia <harshgkapadia@gmail.com> 1632399942 +0530	checkout: moving from b1 to b2
+bb26e73b13b9c565322263377b21f7ca8df758c2 6857f4b82314c20e393867c75df0d17895c61dca Harsh Kapadia <harshgkapadia@gmail.com> 1632399967 +0530	checkout: moving from b2 to main
+6857f4b82314c20e393867c75df0d17895c61dca bb26e73b13b9c565322263377b21f7ca8df758c2 Harsh Kapadia <harshgkapadia@gmail.com> 1632399981 +0530	checkout: moving from main to b2

@@ -1,0 +1,15 @@
+0000000000000000000000000000000000000000 20bfae88b6240bb95eb9431dae6777ac1f7eb0d9 Harsh Kapadia <harshgkapadia@gmail.com> 1596213557 +0530	commit (initial): Initial commit
+20bfae88b6240bb95eb9431dae6777ac1f7eb0d9 c9dbe824f5e89333fd843e378414e4c0b5b4fb02 Harsh Kapadia <harshgkapadia@gmail.com> 1596224989 +0530	rebase (finish): refs/heads/master onto c9dbe824f5e89333fd843e378414e4c0b5b4fb02
+c9dbe824f5e89333fd843e378414e4c0b5b4fb02 cec6ee5ee1e6c2efb25f6f99dadd70ff16ccf786 Harsh Kapadia <harshgkapadia@gmail.com> 1596225059 +0530	commit: Modify master_1.txt
+cec6ee5ee1e6c2efb25f6f99dadd70ff16ccf786 20526aced49a1aa88d0bd2b6fae117e3fa05863a Harsh Kapadia <harshgkapadia@gmail.com> 1596225382 +0530	rebase (finish): refs/heads/master onto ac269b89ae5a93e7d0f347e67d44644305ef182f
+20526aced49a1aa88d0bd2b6fae117e3fa05863a 20526aced49a1aa88d0bd2b6fae117e3fa05863a Harsh Kapadia <harshgkapadia@gmail.com> 1616491703 +0530	Branch: renamed refs/heads/master to refs/heads/main
+20526aced49a1aa88d0bd2b6fae117e3fa05863a 16d75e66dabc956a92b2f41736f35abdb1c82781 Harsh Kapadia <harshgkapadia@gmail.com> 1616491788 +0530	commit: Add master_2.txt
+16d75e66dabc956a92b2f41736f35abdb1c82781 20526aced49a1aa88d0bd2b6fae117e3fa05863a Harsh Kapadia <harshgkapadia@gmail.com> 1616492014 +0530	reset: moving to HEAD@{1}
+20526aced49a1aa88d0bd2b6fae117e3fa05863a e633a34e2aeb7afd9aefaf072d857072228915e7 Harsh Kapadia <harshgkapadia@gmail.com> 1617993724 +0530	commit: Git LFS test - add img
+e633a34e2aeb7afd9aefaf072d857072228915e7 1f04a0ef268d9348175e68a7411df251e4a60495 Harsh Kapadia <harshgkapadia@gmail.com> 1617993757 +0530	pull: Merge made by the 'recursive' strategy.
+1f04a0ef268d9348175e68a7411df251e4a60495 ae98b616b4b0e16c1bf20266dfcf98fe0fb88247 Harsh Kapadia <harshgkapadia@gmail.com> 1621085449 +0530	commit: Unstage testing
+ae98b616b4b0e16c1bf20266dfcf98fe0fb88247 10f3ceae2e36c20e6f41b3f6bb305f600af97338 Harsh Kapadia <harshgkapadia@gmail.com> 1621580555 +0530	commit: Ustaging test stuff
+10f3ceae2e36c20e6f41b3f6bb305f600af97338 83716b79ddf81a38c2ec1da9f118076e6339d8f7 Harsh Kapadia <harshgkapadia@gmail.com> 1621580716 +0530	commit: Add `anushka.txt`
+83716b79ddf81a38c2ec1da9f118076e6339d8f7 5cb25142740a0e13b3e06a30607029ead5e6054f Harsh Kapadia <harshgkapadia@gmail.com> 1632311576 +0530	commit: Add `temp.txt`
+5cb25142740a0e13b3e06a30607029ead5e6054f 670a7954eab5972f8f184ed931231e34334aaf57 Harsh Kapadia <harshgkapadia@gmail.com> 1632311965 +0530	commit: Modify `temp.txt`
+670a7954eab5972f8f184ed931231e34334aaf57 6857f4b82314c20e393867c75df0d17895c61dca Harsh Kapadia <harshgkapadia@gmail.com> 1632347150 +0530	commit: Add internal_working_of_git.adoc
